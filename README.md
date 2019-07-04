@@ -1,5 +1,5 @@
 # Maze-Solving-Bot
-This robot goes throughout the maze and records the decision made by it to reach the end of the maze (displays the path of the maze).
+This robot goes throughout the maze and records the decision made by it to reach the end of the maze (displays the path of the maze).\
 The robot uses "Left hand rule" (prefers to turn left when given a choice between left, straight, right turn).
 # Sub-Systems
 This robot typically consists of 3 main subsystems.\
