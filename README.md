@@ -8,4 +8,4 @@ This robot typically consists of 3 main subsystems.\
 **2.Array Of Sensors**\
       The sensors read the data - the current state of the surrounding meaning the path of the maze to the ATmega16(micro-controller). These are usually infra-red sensors which pick up light reflected light of the track.\
 **3.Control System**\
-      The control system is circuit boards which function as the brain of the robot. The Control system runs a "Maze Solving Algorithm" based on the information recieved by the board from the sensors.\
+      The control system is circuit boards which function as the brain of the robot. The Control system runs a "Maze Solving Algorithm" based on the information recieved by the board from the sensors.
